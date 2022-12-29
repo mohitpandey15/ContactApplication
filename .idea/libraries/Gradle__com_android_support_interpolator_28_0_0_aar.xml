@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:interpolator:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../caches/transforms-3/adb8331a1be7854fc493e2a3386e6f5b/transformed/interpolator-28.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../caches/transforms-3/adb8331a1be7854fc493e2a3386e6f5b/transformed/interpolator-28.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

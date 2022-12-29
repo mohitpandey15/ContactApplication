@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:documentfile:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../caches/transforms-3/3ca5b17ef0c773f4fdcc431071104b11/transformed/documentfile-28.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../caches/transforms-3/3ca5b17ef0c773f4fdcc431071104b11/transformed/documentfile-28.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
